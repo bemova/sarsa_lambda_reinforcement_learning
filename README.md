@@ -1,2 +1,2 @@
-# sarsa_reinforcement_learning
-A Sample for SARSA approach in Reinforcement Learning with python.
+# sarsa_lambda_reinforcement_learning
+A Sample for SARSA lambda approach in Reinforcement Learning with python.
